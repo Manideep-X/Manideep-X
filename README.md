@@ -26,12 +26,12 @@
 </details>
 
 - 🧑🏻 **Manideep Bhattacharyya**
-- 💻 **Computer Science Engineer | Backend & Fullstack Developer**  
+- 💻 **Computer Science Engineer specializing in Backend & Fullstack Development**  
 - 🌍 Based in India
 
 ---
 
-## <img src="" alt="amout_me" /> About Me  
+## <img src="src/assets/Rocket.gif" alt="amout_me" height="40" /> About Me  
 - 🌱 Currently learning **Spring Boot**, **JWT Auth**, and advanced **React.js**
 - 💡 Interested in building **scalable web applications** with clean backend APIs and intuitive UIs
 - 🏆 Goal: Secure a role as a **Backend/Fullstack Developer** and grow in challenging environments
@@ -39,7 +39,7 @@
 
 ---
 
-## <img src="" alt="tech_stack" /> Tech Stack  
+## <img src="src/assets/Settings.gif" alt="tech_stack" height="40" /> Tech Stack  
 
   
 **Languages:**
@@ -71,7 +71,7 @@
 
 ---
 
-## <img src="" alt="pin_project" /> Featured Projects
+## <img src="src/assets/Light Bulb.gif" alt="pin_project" height="40" /> Featured Projects
 
 <div align="center">
 
@@ -82,7 +82,7 @@
 
 ---
 
-## <img src="" alt="github_stats" /> GitHub Stats
+## <img src="src/assets/Pencil.gif" alt="github_stats" height="40" /> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
@@ -95,7 +95,7 @@
 
 ---
 
-## <img src="" alt="social_links" /> Connect With Me  
+## <img src="src/assets/Handshake.gif" alt="social_links" height="40" /> Let's connect, always open to collaborations
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manideep-bhattacharyya-9ab78b20b/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
