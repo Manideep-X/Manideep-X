@@ -80,12 +80,28 @@
 ## <img src="src/assets/Pencil.gif" alt="github_stats" height="40" /> GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&format=png" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&format=png" height="160" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Manideep-X&theme=github_dark&hide_border=false" height="200" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Manideep-X&theme=github_dark&hide_border=false&format=png" height="160" />
+</p>
+
+<p align="center">
+
+  ![](https://github-readme-stats.vercel.app/api?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+  ![](https://github-readme-stats.vercel.app/api?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&format=png)
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&format=png" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manideep-X&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&format=png" height="160" />
+  
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Manideep-X&theme=github_dark&hide_border=false&format=png" height="160" />
 </p>
 
 ---
