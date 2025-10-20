@@ -20,17 +20,18 @@
 </p>
 </details>
 
-- 🧑🏻 **Manideep Bhattacharyya**
-- 💻 **Computer Science Engineer specializing in Backend & Fullstack Development**  
-- 🌍 Based in India
+![OneDrive](https://img.shields.io/badge/Manideep%20Bhattacharyya-black?style=for-the-badge)
+![Computer Science Engineer specializing in - Backend & Fullstack Development](https://img.shields.io/static/v1?label=Computer%20Science%20Engineer%20specializing%20in&message=Backend+and+Fullstack+Development&labelColor=000&color=fff&style=for-the-badge)
+![OneDrive](https://img.shields.io/badge/Based%20in%20India-white?style=for-the-badge)
+
 
 ---
 
 ## <img src="src/assets/Rocket.gif" alt="amout_me" height="40" /> About Me  
-- 🌱 Currently learning **Spring Boot**, **JWT Auth**, and advanced **React.js**
-- 💡 Interested in building **scalable web applications** with clean backend APIs and intuitive UIs
-- 🏆 Goal: Secure a role as a **Backend/Fullstack Developer** and grow in challenging environments
-- 📚 Exploring: **System Design** & **Cloud Deployment (AWS, Render, Netlify)**
+- Currently learning **Spring Boot**, **JWT Auth**, and advanced **React.js**
+- Interested in building **scalable web applications** with clean backend APIs and intuitive UIs
+- Goal: Secure a role as a **Backend/Fullstack Developer** and grow in challenging environments
+- Exploring: **System Design** & **Cloud Deployment (AWS, Render, Netlify)**
 
 ---
 
